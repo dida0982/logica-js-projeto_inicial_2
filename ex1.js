@@ -42,6 +42,7 @@ paragraph.innerHTML += `<br><br>Your IMC is: ${imc.toFixed(2)}`;
     30 a 34,9 → Obesidade grau I
     35 a 39,9 → Obesidade grau II
     40 ou mais → Obesidade grau III
+    
     `);
 }
 
