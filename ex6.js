@@ -1,2 +1,14 @@
 // 6 Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
 
+// multiplication table.
+
+function multiplicationTable() {
+    let multiplicador = 5;
+    let fatores = 1;
+    while (fatores<=10) {
+        productors = fatores * multiplicador;
+        console.log(`${fatores} * ${multiplicador} = ${productors}`);
+        fatores++
+    }
+}
+multiplicationTable();
