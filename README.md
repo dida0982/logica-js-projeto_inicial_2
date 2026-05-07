@@ -68,7 +68,7 @@ Practice:
 1. Clone the repository:
 
 ```bash id="4mpnq8"
-git clone REPOSITORY_URL
+git clone [REPOSITORY_URL](https://github.com/dida0982/logica-js-projeto_inicial_2.git)
 ```
 
 2. Open the `index.html` file in your browser.
