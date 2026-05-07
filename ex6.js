@@ -2,6 +2,9 @@
 
 // multiplication table.
 
+let title6 = document.querySelector( 'h1' );
+title6.innerHTML = 'Multiplication Table.'
+
 function multiplicationTable() {
     let multiplicador = 9;
     let fatores = 1;
@@ -12,4 +15,3 @@ function multiplicationTable() {
     }
 }
 multiplicationTable();
-

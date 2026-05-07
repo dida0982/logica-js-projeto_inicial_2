@@ -1,5 +1,8 @@
 // 3 Crie uma função que converte um valor em dólar, passado como parâmetro, e retorna o valor equivalente em reais. Para isso, considere a cotação do dólar igual a R$4,80.
 
+let title3 = document.querySelector( 'h1' );
+title3.innerHTML = 'Money Converter.'
+
 // R$4.80 dollars is $1.00 reais.
 function moneyConverter() {
     let dollar = 4.80;
