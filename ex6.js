@@ -3,7 +3,7 @@
 // multiplication table.
 
 function multiplicationTable() {
-    let multiplicador = 5;
+    let multiplicador = 9;
     let fatores = 1;
     while (fatores<=10) {
         productors = fatores * multiplicador;
@@ -12,3 +12,4 @@ function multiplicationTable() {
     }
 }
 multiplicationTable();
+
