@@ -2,6 +2,9 @@
 
 // imc = weight/height**2
 
+let title = document.querySelector( 'h1' );
+title.innerHTML = 'Calculate IMC of a person.'
+
 function calculateIMC(height, weight) {
     let imc = weight / height ** 2
 
