@@ -1,7 +1,5 @@
 // 2 Crie uma função que calcule o valor do fatorial de um número passado como parâmetro.
 
-
-
 function factorialNumber() {
 
     let number = 5;
